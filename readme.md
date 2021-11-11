@@ -6,13 +6,26 @@
 ## Contents
 
 - [Applications](#applications)
+  - [Canister tools](#canister-tools)
+  - [Cryptocurrencies](#cryptocurrencies)
+  - [Games](#games)
+  - [Social](#social)
+  - [Storage](#storage)
+  - [Utilities](#utilities)
+  - [Video](#video)
 - [Development tools](#development-tools)
   - [Build system](#build-system)
-  - [Testing](#testing)
   - [IDEs](#ides)
+  - [Testing](#testing)
 - [Libraries](#libraries)
-  - [Data structures](#data-structures)
   - [Algorithms](#algorithms)
+  - [Cryptography](#cryptography)
+  - [Data structures](#data-structures)
+  - [Encoding](#encoding)
+  - [Graphics](#graphics)
+  - [Logging](#logging)
+  - [Text processing](#text-processing)
+- [Registries](#registries)
 - [Resources](#resources)
 - [Contribute](#contribute)
 - [License](#license)
@@ -22,44 +35,106 @@
 
 Fully functional smart contract.
 
-- [reversi](https://github.com/ninegua/reversi) — Multiplayer Reversi Game on Internet Computer.
+### Canister tools
+
+- [candid-spaces](https://github.com/matthewhammer/candid-spaces) - A general-purpose candid data lake for canisters' data on the IC.
+- [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable and more!
+
+### Cryptocurrencies
+
+- [extendable-token](https://github.com/Toniq-Labs/extendable-token) - This token standard provides a ERC1155/multi-token-like approach with extensions that can add additional functionality based on the purpose of the token. 
+
+### Games
+
+- [reversi](https://github.com/ninegua/reversi) — Multiplayer Reversi Game on [Internet Computer](https://dfinity.org).
+
+### Social
+
+- [LinkedUp](https://github.com/dfinity/linkedup) - An open professional network.
+
+### Storage
+
+- [motoko-dht](https://github.com/enzoh/motoko-dht) - This canister implements a distributed hash table.
+
+### Utilities
+
+- [motoko-certified-http](https://github.com/nomeata/motoko-certified-http) - A motoko canister that does HTTP asset certification.
+
+### Video
+
+- [cancan](https://github.com/dfinity/cancan) - A scalable video-sharing service.
 
 ## Development tools
 
 ### Build system
 
-- [Vessel package manager](https://github.com/dfinity/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
 - [dfx](https://github.com/dfinity/sdk/tree/master/src/dfx) - The DFINITY command-line execution environment (dfx) is the primary tool for creating, deploying, and managing the dapps you develop for the Internet Computer blockchain.
+- [Vessel package manager](https://github.com/dfinity/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
 
-### Testing
-
-- [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) - Long-running tests as/for IC services, via a Motoko-based DSL.
-- [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
 
 ### IDEs
 
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Motoko](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) - Motoko language support.
 
+### Testing
+
+- [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) - Long-running tests as/for IC services, via a Motoko-based DSL.
+- [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
+  - [ic101](https://github.com/kritzcreek/ic101) - This repository demonstrates how to use the [matchers](https://github.com/kritzcreek/motoko-matchers) library to unit test canisters on the Internet Computer.
+
 ## Libraries
-
-### Data structures
-
-- [motoko-bigsearch](https://github.com/matthewhammer/motoko-sequence/blob/master/service/BigSearch.mo) - A search service in Motoko, inspired by indexing and search systems like Apache Lucene.
-- [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A generic CRUD framework for Motoko.
-- [motoko-dht](https://github.com/enzoh/motoko-dht) - A Motoko Distributed Hash Table (DHT) canister.
-- [motoko-graph](https://github.com/matthewhammer/motoko-graph) - Graphical data models for Motoko.
-- [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) - Cache-friendly, persistent sequential data for Motoko.
-- [motoko-StableMap](https://github.com/mix-labs/StableMap) - Stable Map for the Motoko.
-- [motoko-MerkleTree](https://github.com/nomeata/motoko-merkle-tree) - A simple merkle tree data structure for Motoko.
 
 ### Algorithms
 
-- [mo-parsec](https://github.com/crusso/mo-parsec) - A [Parsec](https://hackage.haskell.org/package/parsec)-based parser combinator library for Motoko.
+- [chronosphere](https://github.com/enzoh/chronosphere) - A time library for the Motoko programming language.
 - [motoko-adapton](https://github.com/matthewhammer/motoko-adapton) - Dynamic dependence graph and memoization techniques in Motoko.
-- [motoko-redraw](https://github.com/matthewhammer/motoko-redraw) - 2D graphics and layout algorithms for Motoko.
-- [motoko-scc](https://github.com/nomeata/motoko-scc) - A Strongly Connected Component library for Motoko.
+- [motoko-crc](https://github.com/enzoh/motoko-crc) - This package implements cyclic redundancy checks for the Motoko programming language.
 - [motoko-qr](https://github.com/enzoh/motoko-qr) - A QR-code generator for the Motoko programming language.
+- [motoko-scc](https://github.com/nomeata/motoko-scc) - A Strongly Connected Component library for Motoko.
+- [motoko-splay](https://github.com/chenyan2002/motoko-splay) - The splaying algorithm for Motoko.
+- [mo-parsec](https://github.com/crusso/mo-parsec) - A [Parsec](https://hackage.haskell.org/package/parsec)-based parser combinator library for Motoko.
+
+### Cryptography
+
+- [motoko-sha](https://github.com/enzoh/motoko-sha) - This package implements secure hash algorithms for the Motoko programming language.
+- [motoko-sha224](https://github.com/flyq/motoko-sha224) - A Sha224 implements for Motoko.
+
+
+### Data structures
+
+- [motoko-base](https://github.com/dfinity/motoko-base) - The motoko base library, commonly used data structures and algorithms, maintained by the official.
+- [motoko-bigsearch](https://github.com/matthewhammer/motoko-sequence/blob/2b7b429224/service/BigSearch.mo) - A search service in Motoko, inspired by indexing and search systems like Apache Lucene.
+- [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A generic CRUD framework for Motoko.
+- [motoko-MerkleTree](https://github.com/nomeata/motoko-merkle-tree) - A simple merkle tree data structure for Motoko. It provides a key-value store, where both keys and values are of type Blob.
+- [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) - Cache-friendly, persistent sequential data for Motoko.
+- [motoko-StableMap](https://github.com/mix-labs/StableMap) - Stable Map for the Motoko.
+- [motoko-text-map](https://github.com/kritzcreek/motoko-text-map) - A Motoko Hashmap that fixes its key type to Text.
+
+### Encoding
+
+- [motoko-base32](https://github.com/flyq/motoko-base32) - Base32 cod for Motoko
+- [motoko-hex](https://github.com/enzoh/motoko-hex) - This package implements hexadecimal encoding and decoding routines for the Motoko programming language.
+- [motoko-json](https://github.com/kritzcreek/motoko-json) - Json parser in Motoko.
+
+### Graphics
+
+- [motoko-graph](https://github.com/matthewhammer/motoko-graph) - Graphical data models for Motoko.
+- [motoko-redraw](https://github.com/matthewhammer/motoko-redraw) - 2D graphics and layout algorithms for Motoko.
+
+### Logging
+
+- [motoko-pretty](https://github.com/kritzcreek/motoko-pretty) - A pretty printer library for Motoko.
+
+### Text processing
+
+- [motoko-regex](https://github.com/kritzcreek/motoko-regex) - Simple regex matching for Motoko Text.
+
+## Registries
+
+A registry allows you to publish your Rust libraries as crate packages, to share them with others publicly and privately.
+
+- [Vessel Package Set](https://github.com/dfinity/vessel-package-set) - The official community package-set for Motoko libraries to use with [vessel](https://github.com/dfinity/vessel).
 
 ## Resources
 

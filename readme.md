@@ -13,6 +13,7 @@
 - [Libraries](#libraries)
   - [Data structures](#data-structures)
   - [Algorithms](#algorithms)
+  - [Standards/Templates](#standards)
 - [Resources](#resources)
 - [Contribute](#contribute)
 - [License](#license)
@@ -60,6 +61,10 @@ Fully functional smart contract.
 - [motoko-redraw](https://github.com/matthewhammer/motoko-redraw) - 2D graphics and layout algorithms for Motoko.
 - [motoko-scc](https://github.com/nomeata/motoko-scc) - A Strongly Connected Component library for Motoko.
 - [motoko-qr](https://github.com/enzoh/motoko-qr) - A QR-code generator for the Motoko programming language.
+
+### Standards
+- [ic-token](https://github.com/dfinance-tech/ic-token) - Fungible token standard on the IC.
+- [ic-nft](https://github.com/dfinance-tech/ic-nft) - Non-fungible token standard on the IC.
 
 ## Resources
 

@@ -23,6 +23,9 @@
 Fully functional smart contract.
 
 - [reversi](https://github.com/ninegua/reversi) — Multiplayer Reversi Game on Internet Computer.
+- [motoko-qr](https://github.com/enzoh/motoko-qr) - A QR-code generator for the Motoko programming language.
+- [motoko-SVG Generator](https://github.com/aviate-labs/svg.mo) - A SVG generator for the Motoko.
+- [motoko-GraphQL](https://github.com/aviate-labs/graphql.mo) - GraphQL is a query language designed to build client applications and system for describing their data requirements and interactions.
 
 ## Development tools
 
@@ -52,6 +55,9 @@ Fully functional smart contract.
 - [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) - Cache-friendly, persistent sequential data for Motoko.
 - [motoko-StableMap](https://github.com/mix-labs/StableMap) - Stable Map for the Motoko.
 - [motoko-MerkleTree](https://github.com/nomeata/motoko-merkle-tree) - A simple merkle tree data structure for Motoko.
+- [motoko-BiMap](https://github.com/aviate-labs/bimap.mo) - A bimap (or "bidirectional map") is a map that preserves the uniqueness of its values as well as that of its keys.
+- [motoko-Queue](https://github.com/aviate-labs/queue.mo) - FIFO Queue
+
 
 ### Algorithms
 
@@ -59,12 +65,17 @@ Fully functional smart contract.
 - [motoko-adapton](https://github.com/matthewhammer/motoko-adapton) - Dynamic dependence graph and memoization techniques in Motoko.
 - [motoko-redraw](https://github.com/matthewhammer/motoko-redraw) - 2D graphics and layout algorithms for Motoko.
 - [motoko-scc](https://github.com/nomeata/motoko-scc) - A Strongly Connected Component library for Motoko.
-- [motoko-qr](https://github.com/enzoh/motoko-qr) - A QR-code generator for the Motoko programming language.
+- [motoko-SHA](https://github.com/aviate-labs/crypto.mo) - SHA224 and SHA256 hash algorithms as defined in FIPS 180-4
+- [motoko-Encode](https://github.com/aviate-labs/encoding.mo) - Base32, Hex and Binary Library for the Motoko
+- [motoko-CRC32](https://github.com/aviate-labs/hash.mo) - implements the 32-bit cyclic redundancy check, or CRC-32, checksum.
+- [motoko-UUID](https://github.com/aviate-labs/uuid.mo) - Generation of UUIDs based on RFC 4122.
+
 
 ## Resources
 
 - Learning
   - [Introducing the Internet Computer](https://smartcontracts.org/docs/introduction/welcome.html) - A comprehensive series of documents that introduce Internet Computer.
+  - [DFINITY Education](https://github.com/orgs/DFINITY-Education/repositories) - lessons of blockchain, cryptocurrencies and protocol
 
 ## Contribute
 

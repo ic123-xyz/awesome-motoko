@@ -64,7 +64,6 @@ Fully functional smart contract.
 
 - [motoko-certified-http](https://github.com/nomeata/motoko-certified-http) - A motoko canister that does HTTP asset certification.
 - [cleansheets](https://github.com/matthewhammer/cleansheets) - A spreadsheet-like application for the Internet Computer, written in Motoko.
-- []
 
 ### Video
 

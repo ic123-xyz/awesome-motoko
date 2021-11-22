@@ -50,10 +50,13 @@ Fully functional smart contract.
 - [ic-nft](https://github.com/rocklabs-io/ic-nft) - A NFT standard implementation for the Internet Computer, the interfaces mainly follow the ERC721 standard.
 - [ic-token](https://github.com/rocklabs-io/ic-token) - An ERC-20 style token standard implements for Motoko.
 - [motoko-token](https://github.com/enzoh/motoko-token) - This package implements a simple ERC-20 style token.
+- [non-fungible-token](https://github.com/DepartureLabsIC/non-fungible-token) - The goal for this project is to develop a non-fungible token standard which leverages the unique properties of the IC and enables builders to create entire experiences from a single contract.
+- [token faucet](https://github.com/rocklabs-io/token-faucet) - A Token faucet for [ic-token](https://github.com/rocklabs-io/ic-toke).
 
 ### Games
 
-- [reversi](https://github.com/ninegua/reversi) — Multiplayer Reversi Game on [Internet Computer](https://dfinity.org).
+- [reversi](https://github.com/ninegua/reversi) - Multiplayer Reversi Game on [Internet Computer](https://dfinity.org).
+- [revo](https://github.com/DepartureLabsIC/revo) - A drawing game.
 - [superheroes](https://github.com/enzoh/superheroes) - A simple example that demonstrates how to build a CRUD application on the Internet Computer using Motoko and React.
 
 ### Social
@@ -62,13 +65,15 @@ Fully functional smart contract.
 
 ### Storage
 
-- [motoko-dht](https://github.com/enzoh/motoko-dht) - This canister implements a distributed hash table.
 - [motoko-cdn](https://github.com/gabrielnic/motoko-cdn) - A simple storage auto-scaling solution across multiple canisters. Ie: mini-bigmap.
+- [motoko-dht](https://github.com/enzoh/motoko-dht) - This canister implements a distributed hash table.
+- [motoko-document-db](https://github.com/DepartureLabsIC/motoko-document-db)
 
 ### Utilities
 
-- [motoko-certified-http](https://github.com/nomeata/motoko-certified-http) - A motoko canister that does HTTP asset certification.
 - [cleansheets](https://github.com/matthewhammer/cleansheets) - A spreadsheet-like application for the Internet Computer, written in Motoko.
+- [motoko-certified-http](https://github.com/nomeata/motoko-certified-http) - A motoko canister that does HTTP asset certification.
+- [relay](https://github.com/DepartureLabsIC/relay) - Managed events infrastructure by Departure Labs.
 
 ### Video
 

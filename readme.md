@@ -24,6 +24,8 @@
   - [Encoding](#encoding)
   - [Graphics](#graphics)
   - [Logging](#logging)
+  - [Storage](#storage-1)
+  - [Templates](#templates)
   - [Text processing](#text-processing)
 - [Registries](#registries)
 - [Resources](#resources)
@@ -40,9 +42,11 @@ Fully functional smart contract.
 - [candid-spaces](https://github.com/matthewhammer/candid-spaces) - A general-purpose candid data lake for canisters' data on the IC.
 - [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable and more!
 - [motoko_top_up_canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - Implementation of a canister called periodically by a Node.js service; that top-up automatically user-defined canisters with cycles.
+
 ### Cryptocurrencies
 
 - [extendable-token](https://github.com/Toniq-Labs/extendable-token) - This token standard provides a ERC1155/multi-token-like approach with extensions that can add additional functionality based on the purpose of the token. 
+- [extendable token standard](https://github.com/aviate-labs/ext.std) - Extendable Token Standard.
 - [ic-nft](https://github.com/rocklabs-io/ic-nft) - A NFT standard implementation for the Internet Computer, the interfaces mainly follow the ERC721 standard.
 - [ic-token](https://github.com/rocklabs-io/ic-token) - An ERC-20 style token standard implements for Motoko.
 - [motoko-token](https://github.com/enzoh/motoko-token) - This package implements a simple ERC-20 style token.
@@ -50,6 +54,7 @@ Fully functional smart contract.
 ### Games
 
 - [reversi](https://github.com/ninegua/reversi) — Multiplayer Reversi Game on [Internet Computer](https://dfinity.org).
+- [superheroes](https://github.com/enzoh/superheroes) - A simple example that demonstrates how to build a CRUD application on the Internet Computer using Motoko and React.
 
 ### Social
 
@@ -89,68 +94,92 @@ Fully functional smart contract.
 - [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
   - [ic101](https://github.com/kritzcreek/ic101) - This repository demonstrates how to use the [matchers](https://github.com/kritzcreek/motoko-matchers) library to unit test canisters on the Internet Computer.
 - [ic-mini-terminal](https://github.com/matthewhammer/ic-mini-terminal) - Minimal keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
+
 ## Libraries
-
-### Templates
-
-- [motoko-library-template](https://github.com/kritzcreek/motoko-library-template) - A template for creating Motoko libraries.
-- [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A framework for constructing CRUD services in Motoko for the Internet Computer.
-- [superheroes](https://github.com/enzoh/superheroes) - A simple example that demonstrates how to build a CRUD application on the Internet Computer using Motoko and React.
 
 ### Algorithms
 
 - [chronosphere](https://github.com/enzoh/chronosphere) - A time library for the Motoko programming language.
 - [motoko-adapton](https://github.com/matthewhammer/motoko-adapton) - Dynamic dependence graph and memoization techniques in Motoko.
-- [motoko-crc](https://github.com/enzoh/motoko-crc) - This package implements cyclic redundancy checks for the Motoko programming language.
 - [motoko-qr](https://github.com/enzoh/motoko-qr) - A QR-code generator for the Motoko programming language.
 - [motoko-scc](https://github.com/nomeata/motoko-scc) - A Strongly Connected Component library for Motoko.
 - [motoko-splay](https://github.com/chenyan2002/motoko-splay) - The splaying algorithm for Motoko.
 - [mo-parsec](https://github.com/crusso/mo-parsec) - A [Parsec](https://hackage.haskell.org/package/parsec)-based parser combinator library for Motoko.
-- [motoko-crc](https://github.com/enzoh/motoko-crc) - This package implements cyclic redundancy checks for the Motoko programming language.
+- [Parser Combinators](https://github.com/aviate-labs/parser-combinators.mo) - Based on Monadic Parser Combinators by Graham Hutton and Erik Meijer.
+- [Sorted](https://github.com/aviate-labs/sorted.mo) - Data structures in which each element is sorted in numerical, alphabetical, or some other order.
 
 ### Cryptography
 
+- [hash package](https://github.com/aviate-labs/hash.mo) - CRC32: implements the 32-bit cyclic redundancy check, or CRC-32, checksum.
+- [motoko-crc](https://github.com/enzoh/motoko-crc) - This package implements cyclic redundancy checks for the Motoko programming language.
+- [motoko-CRC32](https://github.com/aviate-labs/hash.mo) - Implements the 32-bit cyclic redundancy check, or CRC-32, checksum.
 - [motoko-sha](https://github.com/enzoh/motoko-sha) - This package implements secure hash algorithms for the Motoko programming language.
+- [motoko-SHA](https://github.com/aviate-labs/crypto.mo) - SHA224 and SHA256 hash algorithms as defined in FIPS 180-4.
 - [motoko-sha224](https://github.com/flyq/motoko-sha224) - A Sha224 implements for Motoko.
+- [rand](https://github.com/aviate-labs/rand.mo) - Pseudo Random Number Generators.
 
 ### Data structures
 
+- [array](https://github.com/aviate-labs/array.mo) - Extended Array Package for Motoko.
 - [motoko-base](https://github.com/dfinity/motoko-base) - The motoko base library, commonly used data structures and algorithms, maintained by the official.
 - [motoko-bigsearch](https://github.com/matthewhammer/motoko-sequence/blob/2b7b429224/service/BigSearch.mo) - A search service in Motoko, inspired by indexing and search systems like Apache Lucene.
-- [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A generic CRUD framework for Motoko.
+- [motoko-BiMap](https://github.com/aviate-labs/bimap.mo) - A bimap (or "bidirectional map") is a map that preserves the uniqueness of its values as well as that of its keys.
+- [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A framework for constructing CRUD services in Motoko for the Internet Computer.
 - [motoko-MerkleTree](https://github.com/nomeata/motoko-merkle-tree) - A simple merkle tree data structure for Motoko. It provides a key-value store, where both keys and values are of type Blob.
+- [motoko-Queue](https://github.com/aviate-labs/queue.mo) - A collection of elements that are maintained in a sequence, a FIFO Queue.
 - [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) - Cache-friendly, persistent sequential data for Motoko.
 - [motoko-StableMap](https://github.com/mix-labs/StableMap) - Stable Map for the Motoko.
 - [motoko-text-map](https://github.com/kritzcreek/motoko-text-map) - A Motoko Hashmap that fixes its key type to Text.
+- [Principal](https://github.com/aviate-labs/principal.mo) - Provides a wrapper around the [base principal module](https://github.com/dfinity/motoko-base/blob/master/src/Principal.mo).
+- [Stable Data Struct](https://github.com/aviate-labs/stable.mo) - Stable Hashmap implements.
+
 ### Encoding
 
-- [motoko-base32](https://github.com/flyq/motoko-base32) - Base32 cod for Motoko
+- [json package](https://github.com/aviate-labs/json.mo) - JSON for Motoko.
+- [motoko-base32](https://github.com/flyq/motoko-base32) - Base32 coding/decoding for Motoko.
+- [motoko-Encode](https://github.com/aviate-labs/encoding.mo) - Base32, Hex and Binary Library for the Motoko.
 - [motoko-hex](https://github.com/enzoh/motoko-hex) - This package implements hexadecimal encoding and decoding routines for the Motoko programming language.
 - [motoko-json](https://github.com/kritzcreek/motoko-json) - Json parser in Motoko.
+- [motoko-UUID](https://github.com/aviate-labs/uuid.mo) - Generation of UUIDs based on RFC 4122.
 
 ### Graphics
 
 - [motoko-graph](https://github.com/matthewhammer/motoko-graph) - Graphical data models for Motoko.
 - [motoko-redraw](https://github.com/matthewhammer/motoko-redraw) - 2D graphics and layout algorithms for Motoko.
+- [motoko-SVG Generator](https://github.com/aviate-labs/svg.mo) - A SVG generator for the Motoko.
 
 ### Logging
 
 - [motoko-pretty](https://github.com/kritzcreek/motoko-pretty) - A pretty printer library for Motoko.
 
+### Storage
+
+- [Asset Storage](https://github.com/aviate-labs/asset-storage.mo) - Interface of the Asset Storage Canister.
+- [motoko-GraphQL](https://github.com/aviate-labs/graphql.mo) - GraphQL is a query language designed to build client applications and system for describing their data requirements and interactions.
+
+### Templates
+
+- [motoko-library-template](https://github.com/kritzcreek/motoko-library-template) - A template for creating Motoko libraries.
+
 ### Text processing
 
+- [Format](https://github.com/aviate-labs/fmt.mo) - Implements conversions to and from textual representations of basic data types.
 - [motoko-regex](https://github.com/kritzcreek/motoko-regex) - Simple regex matching for Motoko Text.
 
 ## Registries
 
 A registry allows you to publish your Rust libraries as crate packages, to share them with others publicly and privately.
 
-- [Vessel Package Set](https://github.com/dfinity/vessel-package-set) - The official community package-set for Motoko libraries to use with [vessel](https://github.com/dfinity/vessel).
+- [io package](https://github.com/aviate-labs/io.mo) - Basic Interfaces for I/O Primitives.
+- [Package Set](https://github.com/aviate-labs/package-set) - Aviate-labs package-set for Motoko libraries to use with [vessel](https://github.com/dfinity/vessel).
+- [Vessel Package Set](https://github.com/dfinity/vessel-package-set) - The official package-set for Motoko libraries to use with [vessel](https://github.com/dfinity/vessel).
 
 ## Resources
 
 - Learning
+  - [DFINITY Education](https://github.com/orgs/DFINITY-Education/) - Lessons about blockchain, cryptocurrencies and protocol of Internet Computer.
   - [Introducing the Internet Computer](https://smartcontracts.org/docs/introduction/welcome.html) - A comprehensive series of documents that introduce Internet Computer.
+  - [motoko by example](https://github.com/dfinity/examples/tree/master/motoko) - An officially maintained collection of short motoko examples.
 
 ## Contribute
 

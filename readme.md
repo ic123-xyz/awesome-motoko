@@ -2,6 +2,7 @@
 
 > An awesome list of Motoko code and resources curated by the community.
 
+> The [Motoko programming language](https://smartcontracts.org/docs/language-guide/motoko.html) is a new, modern and type safe language for developers who want to build the next generation of distributed applications to run on the [Internet Computer](https://smartcontracts.org/docs/introduction/welcome.html) blockchain network. Motoko is specifically designed to support the unique features of the Internet Computer and to provide a familiar yet robust programming environment.
 
 ## Contents
 
@@ -40,7 +41,7 @@ Fully functional smart contract.
 ### Canister tools
 
 - [candid-spaces](https://github.com/matthewhammer/candid-spaces) - A general-purpose candid data lake for canisters' data on the IC.
-- [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable and more!
+- [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable.
 - [motoko_top_up_canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - Implementation of a canister called periodically by a Node.js service; that top-up automatically user-defined canisters with cycles.
 
 ### Cryptocurrencies
@@ -51,17 +52,17 @@ Fully functional smart contract.
 - [ic-token](https://github.com/rocklabs-io/ic-token) - An ERC-20 style token standard implements for Motoko.
 - [motoko-token](https://github.com/enzoh/motoko-token) - This package implements a simple ERC-20 style token.
 - [non-fungible-token](https://github.com/DepartureLabsIC/non-fungible-token) - The goal for this project is to develop a non-fungible token standard which leverages the unique properties of the IC and enables builders to create entire experiences from a single contract.
-- [token faucet](https://github.com/rocklabs-io/token-faucet) - A Token faucet for [ic-token](https://github.com/rocklabs-io/ic-toke).
+- [token faucet](https://github.com/rocklabs-io/token-faucet) - A token faucet for [ic-token](https://github.com/rocklabs-io/ic-toke).
 
 ### Games
 
 - [reversi](https://github.com/ninegua/reversi) - Multiplayer Reversi Game on [Internet Computer](https://dfinity.org).
-- [revo](https://github.com/DepartureLabsIC/revo) - A drawing game.
+- [revo](https://github.com/DepartureLabsIC/revo) - A drawing game on Internet Computer.
 - [superheroes](https://github.com/enzoh/superheroes) - A simple example that demonstrates how to build a CRUD application on the Internet Computer using Motoko and React.
 
 ### Social
 
-- [LinkedUp](https://github.com/dfinity/linkedup) - An open professional network.
+- [LinkedUp](https://github.com/dfinity/linkedup) - An open professional network on Internet Computer.
 
 ### Storage
 
@@ -89,7 +90,7 @@ Fully functional smart contract.
 ### IDEs
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-  - [Motoko](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) - Motoko language support.
+  - [Motoko](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) - Motoko language support maintained by official.
 - [IntelliJ IDEA Motoko support](https://github.com/ununhexium/idea-motoko-plugin) - Adds support for the Motoko language from Dfinity.
 - [motoko-playground](https://github.com/dfinity/motoko-playground) - A playground for the Internet Computer's native Motoko language.
 
@@ -126,7 +127,7 @@ Fully functional smart contract.
 ### Data structures
 
 - [array](https://github.com/aviate-labs/array.mo) - Extended Array Package for Motoko.
-- [motoko-base](https://github.com/dfinity/motoko-base) - The motoko base library, commonly used data structures and algorithms, maintained by the official.
+- [motoko-base](https://github.com/dfinity/motoko-base) - The Motoko base library, commonly used data structures and algorithms, maintained by the official.
 - [motoko-bigsearch](https://github.com/matthewhammer/motoko-sequence/blob/2b7b429224/service/BigSearch.mo) - A search service in Motoko, inspired by indexing and search systems like Apache Lucene.
 - [motoko-BiMap](https://github.com/aviate-labs/bimap.mo) - A bimap (or "bidirectional map") is a map that preserves the uniqueness of its values as well as that of its keys.
 - [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A framework for constructing CRUD services in Motoko for the Internet Computer.
@@ -184,7 +185,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
 - Learning
   - [DFINITY Education](https://github.com/orgs/DFINITY-Education/) - Lessons about blockchain, cryptocurrencies and protocol of Internet Computer.
   - [Introducing the Internet Computer](https://smartcontracts.org/docs/introduction/welcome.html) - A comprehensive series of documents that introduce Internet Computer.
-  - [motoko by example](https://github.com/dfinity/examples/tree/master/motoko) - An officially maintained collection of short motoko examples.
+  - [motoko by example](https://github.com/dfinity/examples/tree/master/motoko) - An officially maintained collection of short Motoko examples.
 
 ## Contribute
 

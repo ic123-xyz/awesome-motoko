@@ -2,7 +2,7 @@
 
 > An awesome list of Motoko code and resources curated by the community.
 
-> The [Motoko programming language](https://smartcontracts.org/docs/language-guide/motoko.html) is a new, modern and type safe language for developers who want to build the next generation of distributed applications to run on the [Internet Computer](https://smartcontracts.org/docs/introduction/welcome.html) blockchain network. Motoko is specifically designed to support the unique features of the Internet Computer and to provide a familiar yet robust programming environment.
+> The [Motoko programming language](https://smartcontracts.org/docs/language-guide/motoko.html) is a new, modern and type safe language for developers who want to build the next generation of distributed applications to run on the [Internet Computer](https://dfinity.org) blockchain network.
 
 ## Contents
 
@@ -56,7 +56,7 @@ Fully functional smart contract.
 
 ### Games
 
-- [reversi](https://github.com/ninegua/reversi) - Multiplayer Reversi Game on [Internet Computer](https://dfinity.org).
+- [reversi](https://github.com/ninegua/reversi) - Multiplayer Reversi Game on Internet Computer.
 - [revo](https://github.com/DepartureLabsIC/revo) - A drawing game on Internet Computer.
 - [superheroes](https://github.com/enzoh/superheroes) - A simple example that demonstrates how to build a CRUD application on the Internet Computer using Motoko and React.
 
@@ -98,7 +98,7 @@ Fully functional smart contract.
 
 - [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) - Long-running tests as/for IC services, via a Motoko-based DSL.
 - [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
-  - [ic101](https://github.com/kritzcreek/ic101) - This repository demonstrates how to use the [matchers](https://github.com/kritzcreek/motoko-matchers) library to unit test canisters on the Internet Computer.
+  - [ic101](https://github.com/kritzcreek/ic101) - This repository demonstrates how to use the matchers library to unit test canisters on the Internet Computer.
 - [ic-mini-terminal](https://github.com/matthewhammer/ic-mini-terminal) - Minimal keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
 
 ## Libraries
@@ -116,7 +116,6 @@ Fully functional smart contract.
 
 ### Cryptography
 
-- [hash package](https://github.com/aviate-labs/hash.mo) - CRC32: implements the 32-bit cyclic redundancy check, or CRC-32, checksum.
 - [motoko-crc](https://github.com/enzoh/motoko-crc) - This package implements cyclic redundancy checks for the Motoko programming language.
 - [motoko-CRC32](https://github.com/aviate-labs/hash.mo) - Implements the 32-bit cyclic redundancy check, or CRC-32, checksum.
 - [motoko-sha](https://github.com/enzoh/motoko-sha) - This package implements secure hash algorithms for the Motoko programming language.
@@ -177,8 +176,8 @@ Fully functional smart contract.
 A registry allows you to publish your Rust libraries as crate packages, to share them with others publicly and privately.
 
 - [io package](https://github.com/aviate-labs/io.mo) - Basic Interfaces for I/O Primitives.
-- [Package Set](https://github.com/aviate-labs/package-set) - Aviate-labs package-set for Motoko libraries to use with [vessel](https://github.com/dfinity/vessel).
-- [Vessel Package Set](https://github.com/dfinity/vessel-package-set) - The official package-set for Motoko libraries to use with [vessel](https://github.com/dfinity/vessel).
+- [Package Set](https://github.com/aviate-labs/package-set) - Aviate-labs package-set for Motoko libraries to use with vessel.
+- [Vessel Package Set](https://github.com/dfinity/vessel-package-set) - The official package-set for Motoko libraries to use with vessel.
 
 ## Resources
 

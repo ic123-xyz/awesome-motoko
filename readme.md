@@ -41,6 +41,7 @@ Fully functional smart contract.
 ### Canister tools
 
 - [candid-spaces](https://github.com/matthewhammer/candid-spaces) - A general-purpose candid data lake for canisters' data on the IC.
+- [Canister Tip Jar](https://github.com/ninegua/tipjar) - Donate cycles to your favorite canisters on the Internet Computer and keep them live and healthy.
 - [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable.
 - [motoko_top_up_canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - Implementation of a canister called periodically by a Node.js service; that top-up automatically user-defined canisters with cycles.
 
@@ -137,6 +138,7 @@ Fully functional smart contract.
 - [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) - Cache-friendly, persistent sequential data for Motoko.
 - [motoko-StableMap](https://github.com/mix-labs/StableMap) - Stable Map for the Motoko.
 - [motoko-text-map](https://github.com/kritzcreek/motoko-text-map) - A Motoko Hashmap that fixes its key type to Text.
+- [mutable-queue.mo](https://github.com/ninegua/mutable-queue.mo) - Motoko module of a mutable queue data structure.
 - [Principal](https://github.com/aviate-labs/principal.mo) - Provides a wrapper around the [base principal module](https://github.com/dfinity/motoko-base/blob/master/src/Principal.mo).
 - [Stable Data Struct](https://github.com/aviate-labs/stable.mo) - Stable Hashmap implements.
 
@@ -157,6 +159,7 @@ Fully functional smart contract.
 
 ### Logging
 
+- [ic-logger](https://github.com/ninegua/ic-logger) - Motoko library to help create an append-only logger actor.
 - [motoko-pretty](https://github.com/kritzcreek/motoko-pretty) - A pretty printer library for Motoko.
 
 ### Storage

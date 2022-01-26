@@ -116,6 +116,8 @@ Fully functional smart contract.
 
 ### Cryptography
 
+- [ecdsa-motoko](https://github.com/herumi/ecdsa-motoko) - ECDSA for Motoko.
+- [libsecp256k1](https://github.com/mix-labs/libsecp256k1) - Pure Motoko Implementation of secp256k1.
 - [motoko-crc](https://github.com/enzoh/motoko-crc) - This package implements cyclic redundancy checks for the Motoko programming language.
 - [motoko-CRC32](https://github.com/aviate-labs/hash.mo) - Implements the 32-bit cyclic redundancy check, or CRC-32, checksum.
 - [motoko-sha](https://github.com/enzoh/motoko-sha) - This package implements secure hash algorithms for the Motoko programming language.

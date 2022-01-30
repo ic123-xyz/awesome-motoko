@@ -121,6 +121,7 @@ Fully functional smart contract.
 - [libsecp256k1](https://github.com/mix-labs/libsecp256k1) - Pure Motoko Implementation of secp256k1.
 - [motoko-crc](https://github.com/enzoh/motoko-crc) - This package implements cyclic redundancy checks for the Motoko programming language.
 - [motoko-CRC32](https://github.com/aviate-labs/hash.mo) - Implements the 32-bit cyclic redundancy check, or CRC-32, checksum.
+- [motoko-sha2](https://github.com/timohanke/motoko-sha2) - All hash functions from the SHA2 family (sha224, sha256, sha512-224, sha512-256, sha384, sha512).
 - [motoko-sha](https://github.com/enzoh/motoko-sha) - This package implements secure hash algorithms for the Motoko programming language.
 - [motoko-SHA](https://github.com/aviate-labs/crypto.mo) - SHA224 and SHA256 hash algorithms as defined in FIPS 180-4.
 - [motoko-sha224](https://github.com/flyq/motoko-sha224) - A Sha224 implements for Motoko.

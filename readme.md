@@ -167,6 +167,7 @@ Fully functional smart contract.
 
 - [Asset Storage](https://github.com/aviate-labs/asset-storage.mo) - Interface of the Asset Storage Canister.
 - [motoko-GraphQL](https://github.com/aviate-labs/graphql.mo) - GraphQL is a query language designed to build client applications and system for describing their data requirements and interactions.
+- [Bucket](https://github.com/PrimLabs/Bucket) - A data bucket library that use stable memory to store files bytes and assist developers to build http response.
 
 ### Templates
 

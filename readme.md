@@ -101,6 +101,7 @@ Fully functional smart contract.
 - [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
   - [ic101](https://github.com/kritzcreek/ic101) - This repository demonstrates how to use the matchers library to unit test canisters on the Internet Computer.
 - [ic-mini-terminal](https://github.com/matthewhammer/ic-mini-terminal) - Minimal keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
+- [motoko-color](https://github.com/ByronBecker/motoko-color) - A Motoko library for rendering color schemes and graphics to the terminal, based on the ANSI ASCII standard
 
 ## Libraries
 
@@ -142,6 +143,10 @@ Fully functional smart contract.
 - [mutable-queue.mo](https://github.com/ninegua/mutable-queue.mo) - Motoko module of a mutable queue data structure.
 - [Principal](https://github.com/aviate-labs/principal.mo) - Provides a wrapper around the [base principal module](https://github.com/dfinity/motoko-base/blob/master/src/Principal.mo).
 - [Stable Data Struct](https://github.com/aviate-labs/stable.mo) - Stable Hashmap implements.
+- [Stable HashMaps](https://github.com/canscale/StableHashMap) - Functional & Class-Based stable Hashmaps in Motoko.
+- [Stable Red-Black Trees](https://github.com/canscale/StableRBTree) - Stable Red-Black Trees in Motoko.
+- [Stable Buffers](https://github.com/canscale/StableBuffer) - Stable Buffers in Motoko.
+- [Stable LinkedList](https://github.com/canscale/LinkedList) - Stable, mutable singly & doubly linked lists in Motoko.
 
 ### Encoding
 

@@ -94,6 +94,7 @@ Fully functional smart contract.
   - [Motoko](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) - Motoko language support maintained by official.
 - [IntelliJ IDEA Motoko support](https://github.com/ununhexium/idea-motoko-plugin) - Adds support for the Motoko language from Dfinity.
 - [motoko-playground](https://github.com/dfinity/motoko-playground) - A playground for the Internet Computer's native Motoko language.
+- [Blocks](https://blocks-editor.github.io/blocks/) - An open source visual Motoko smart contract editor.
 
 ### Testing
 

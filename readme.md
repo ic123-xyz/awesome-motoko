@@ -127,7 +127,7 @@ Fully functional smart contract.
 - [motoko-SHA](https://github.com/aviate-labs/crypto.mo) - SHA224 and SHA256 hash algorithms as defined in FIPS 180-4.
 - [motoko-sha224](https://github.com/flyq/motoko-sha224) - A Sha224 implements for Motoko.
 - [rand](https://github.com/aviate-labs/rand.mo) - Pseudo Random Number Generators.
-- [motoko-bitcoin](https://github.com/tgalal/motoko-bitcoin) - Bitcoin-related libraries (Base58, RIPMED160, HMAC)
+- [motoko-bitcoin](https://github.com/tgalal/motoko-bitcoin) - Bitcoin-related libraries (Base58, RIPMED160, HMAC).
 
 ### Data structures
 

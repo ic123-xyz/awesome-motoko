@@ -90,17 +90,18 @@ Fully functional smart contract.
 
 ### IDEs
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-  - [Motoko](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) - Motoko language support maintained by official.
+- [Blocks](https://blocks-editor.github.io/blocks/) - An open source visual Motoko smart contract editor.
 - [IntelliJ IDEA Motoko support](https://github.com/ununhexium/idea-motoko-plugin) - Adds support for the Motoko language from Dfinity.
 - [motoko-playground](https://github.com/dfinity/motoko-playground) - A playground for the Internet Computer's native Motoko language.
+- [Visual Studio Code](https://code.visualstudio.com/)
+  - [Motoko](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) - Motoko language support maintained by official.
 
 ### Testing
 
+- [ic-mini-terminal](https://github.com/matthewhammer/ic-mini-terminal) - Minimal keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
 - [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) - Long-running tests as/for IC services, via a Motoko-based DSL.
 - [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
   - [ic101](https://github.com/kritzcreek/ic101) - This repository demonstrates how to use the matchers library to unit test canisters on the Internet Computer.
-- [ic-mini-terminal](https://github.com/matthewhammer/ic-mini-terminal) - Minimal keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
 
 ## Libraries
 
@@ -119,6 +120,7 @@ Fully functional smart contract.
 
 - [ecdsa-motoko](https://github.com/herumi/ecdsa-motoko) - ECDSA for Motoko.
 - [libsecp256k1](https://github.com/mix-labs/libsecp256k1) - Pure Motoko Implementation of secp256k1.
+- [motoko-bitcoin](https://github.com/tgalal/motoko-bitcoin) - Bitcoin-related libraries (Base58, RIPMED160, HMAC).
 - [motoko-crc](https://github.com/enzoh/motoko-crc) - This package implements cyclic redundancy checks for the Motoko programming language.
 - [motoko-CRC32](https://github.com/aviate-labs/hash.mo) - Implements the 32-bit cyclic redundancy check, or CRC-32, checksum.
 - [motoko-sha2](https://github.com/timohanke/motoko-sha2) - All hash functions from the SHA2 family (sha224, sha256, sha512-224, sha512-256, sha384, sha512).
@@ -191,6 +193,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
 - Learning
   - [DFINITY Education](https://github.com/orgs/DFINITY-Education/) - Lessons about blockchain, cryptocurrencies and protocol of Internet Computer.
   - [Introducing the Internet Computer](https://smartcontracts.org/docs/introduction/welcome.html) - A comprehensive series of documents that introduce Internet Computer.
+  - [Motoko Bootcamp](https://github.com/motoko-bootcamp/education) - Lectures and resources from the Motoko Bootcamp.
   - [motoko by example](https://github.com/dfinity/examples/tree/master/motoko) - An officially maintained collection of short Motoko examples.
 
 ## Contribute

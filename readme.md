@@ -6,32 +6,35 @@
 
 ## Contents
 
-- [Applications](#applications)
-  - [Canister tools](#canister-tools)
-  - [Cryptocurrencies](#cryptocurrencies)
-  - [Games](#games)
-  - [Social](#social)
-  - [Storage](#storage)
-  - [Utilities](#utilities)
-  - [Video](#video)
-- [Development tools](#development-tools)
-  - [Build system](#build-system)
-  - [IDEs](#ides)
-  - [Testing](#testing)
-- [Libraries](#libraries)
-  - [Algorithms](#algorithms)
-  - [Cryptography](#cryptography)
-  - [Data structures](#data-structures)
-  - [Encoding](#encoding)
-  - [Graphics](#graphics)
-  - [Logging](#logging)
-  - [Storage](#storage-1)
-  - [Templates](#templates)
-  - [Text processing](#text-processing)
-- [Registries](#registries)
-- [Resources](#resources)
-- [Contribute](#contribute)
-- [License](#license)
+- [Awesome Motoko ![Awesome](https://awesome.re)](#awesome-motoko-)
+  - [Contents](#contents)
+  - [Applications](#applications)
+    - [Canister tools](#canister-tools)
+    - [Cryptocurrencies](#cryptocurrencies)
+    - [Games](#games)
+    - [Social](#social)
+    - [Storage](#storage)
+    - [Utilities](#utilities)
+    - [Video](#video)
+  - [Development tools](#development-tools)
+    - [Build system](#build-system)
+    - [IDEs](#ides)
+    - [Testing](#testing)
+  - [Libraries](#libraries)
+    - [Algorithms](#algorithms)
+    - [Cryptography](#cryptography)
+    - [Data structures](#data-structures)
+    - [Encoding](#encoding)
+    - [Graphics](#graphics)
+    - [Logging](#logging)
+    - [Storage](#storage-1)
+    - [Templates](#templates)
+    - [Text processing](#text-processing)
+    - [Web Programming](#web-programming)
+  - [Registries](#registries)
+  - [Resources](#resources)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 
 ## Applications
@@ -185,6 +188,10 @@ Fully functional smart contract.
 - [Format](https://github.com/aviate-labs/fmt.mo) - Implements conversions to and from textual representations of basic data types.
 - [motoko-regex](https://github.com/kritzcreek/motoko-regex) - Simple regex matching for Motoko Text.
 
+### Web Programming
+
+- [Http Request Parser](https://github.com/tomijaga/http-parser.mo) - A http request parser for parsing url, search query, headers and form data.
+  
 ## Registries
 
 A registry allows you to publish your Rust libraries as crate packages, to share them with others publicly and privately.

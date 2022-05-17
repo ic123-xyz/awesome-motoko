@@ -6,36 +6,33 @@
 
 ## Contents
 
-- [Awesome Motoko ![Awesome](https://awesome.re)](#awesome-motoko-)
-  - [Contents](#contents)
-  - [Applications](#applications)
-    - [Canister tools](#canister-tools)
-    - [Cryptocurrencies](#cryptocurrencies)
-    - [Games](#games)
-    - [Social](#social)
-    - [Storage](#storage)
-    - [Utilities](#utilities)
-    - [Video](#video)
-  - [Development tools](#development-tools)
-    - [Build system](#build-system)
-    - [IDEs](#ides)
-    - [Testing](#testing)
-  - [Libraries](#libraries)
-    - [Algorithms](#algorithms)
-    - [Cryptography](#cryptography)
-    - [Data structures](#data-structures)
-    - [Encoding](#encoding)
-    - [Graphics](#graphics)
-    - [Logging](#logging)
-    - [Storage](#storage-1)
-    - [Templates](#templates)
-    - [Text processing](#text-processing)
-    - [Web Programming](#web-programming)
-  - [Registries](#registries)
-  - [Resources](#resources)
-  - [Contribute](#contribute)
-  - [License](#license)
-
+- [Applications](#applications)
+  - [Canister tools](#canister-tools)
+  - [Cryptocurrencies](#cryptocurrencies)
+  - [Games](#games)
+  - [Social](#social)
+  - [Storage](#storage)
+  - [Utilities](#utilities)
+  - [Video](#video)
+- [Development tools](#development-tools)
+  - [Build system](#build-system)
+  - [IDEs](#ides)
+  - [Testing](#testing)
+- [Libraries](#libraries)
+  - [Algorithms](#algorithms)
+  - [Cryptography](#cryptography)
+  - [Data structures](#data-structures)
+  - [Encoding](#encoding)
+  - [Graphics](#graphics)
+  - [Logging](#logging)
+  - [Storage](#storage-1)
+  - [Templates](#templates)
+  - [Text processing](#text-processing)
+  - [Web Programming](#web-programming)
+- [Registries](#registries)
+- [Resources](#resources)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Applications
 
@@ -50,7 +47,7 @@ Fully functional smart contract.
 
 ### Cryptocurrencies
 
-- [extendable-token](https://github.com/Toniq-Labs/extendable-token) - This token standard provides a ERC1155/multi-token-like approach with extensions that can add additional functionality based on the purpose of the token. 
+- [extendable-token](https://github.com/Toniq-Labs/extendable-token) - This token standard provides a ERC1155/multi-token-like approach with extensions that can add additional functionality based on the purpose of the token.
 - [extendable token standard](https://github.com/aviate-labs/ext.std) - Extendable Token Standard.
 - [ic-nft](https://github.com/rocklabs-io/ic-nft) - A NFT standard implementation for the Internet Computer, the interfaces mainly follow the ERC721 standard.
 - [ic-token](https://github.com/rocklabs-io/ic-token) - An ERC-20 style token standard implements for Motoko.
@@ -191,7 +188,7 @@ Fully functional smart contract.
 ### Web Programming
 
 - [Http Request Parser](https://github.com/tomijaga/http-parser.mo) - A http request parser for parsing url, search query, headers and form data.
-  
+
 ## Registries
 
 A registry allows you to publish your Rust libraries as crate packages, to share them with others publicly and privately.

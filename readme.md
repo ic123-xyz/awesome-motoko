@@ -28,11 +28,11 @@
   - [Storage](#storage-1)
   - [Templates](#templates)
   - [Text processing](#text-processing)
+  - [Web Programming](#web-programming)
 - [Registries](#registries)
 - [Resources](#resources)
 - [Contribute](#contribute)
 - [License](#license)
-
 
 ## Applications
 
@@ -47,7 +47,7 @@ Fully functional smart contract.
 
 ### Cryptocurrencies
 
-- [extendable-token](https://github.com/Toniq-Labs/extendable-token) - This token standard provides a ERC1155/multi-token-like approach with extensions that can add additional functionality based on the purpose of the token. 
+- [extendable-token](https://github.com/Toniq-Labs/extendable-token) - This token standard provides a ERC1155/multi-token-like approach with extensions that can add additional functionality based on the purpose of the token.
 - [extendable token standard](https://github.com/aviate-labs/ext.std) - Extendable Token Standard.
 - [ic-nft](https://github.com/rocklabs-io/ic-nft) - A NFT standard implementation for the Internet Computer, the interfaces mainly follow the ERC721 standard.
 - [ic-token](https://github.com/rocklabs-io/ic-token) - An ERC-20 style token standard implements for Motoko.
@@ -184,6 +184,10 @@ Fully functional smart contract.
 
 - [Format](https://github.com/aviate-labs/fmt.mo) - Implements conversions to and from textual representations of basic data types.
 - [motoko-regex](https://github.com/kritzcreek/motoko-regex) - Simple regex matching for Motoko Text.
+
+### Web Programming
+
+- [Http Request Parser](https://github.com/tomijaga/http-parser.mo) - A http request parser for parsing url, search query, headers and form data.
 
 ## Registries
 

@@ -42,9 +42,9 @@ Fully functional smart contract.
 
 - [candid-spaces](https://github.com/matthewhammer/candid-spaces) - A general-purpose candid data lake for canisters' data on the IC.
 - [Canister Tip Jar](https://github.com/ninegua/tipjar) - Donate cycles to your favorite canisters on the Internet Computer and keep them live and healthy.
+- [iCAN](https://github.com/PrimLabs/iCAN) - A Canister Management Platform, which helps you create canisters in random subnet and manage canisters status efficiently and conveniently.
 - [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable.
 - [motoko_top_up_canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - Implementation of a canister called periodically by a Node.js service; that top-up automatically user-defined canisters with cycles.
-- [iCAN](https://github.com/PrimLabs/iCAN) - A Canister Management Platform, which helps you create canisters in random subnet and manage canisters status efficiently and conveniently
 
 ### Cryptocurrencies
 
@@ -68,10 +68,10 @@ Fully functional smart contract.
 
 ### Storage
 
+- [motoko-bucket](https://github.com/PrimLabs/Bucket) - A K-V Database lib that uses stable memory to store data.
 - [motoko-cdn](https://github.com/gabrielnic/motoko-cdn) - A simple storage auto-scaling solution across multiple canisters. Ie: mini-bigmap.
 - [motoko-dht](https://github.com/enzoh/motoko-dht) - This canister implements a distributed hash table.
 - [motoko-document-db](https://github.com/DepartureLabsIC/motoko-document-db)
-- [motoko-bucket](https://github.com/PrimLabs/Bucket) - A K-V Database lib that uses stable memory to store data.
 - [motoko-ICSP](https://github.com/PrimLabs/ICSP) - Internet Computer Storage Protocol. This lib supports many features, such as auto-scale storage, HTTP Redirect, cycle monitor and top up self automatically. 
 
 ### Utilities

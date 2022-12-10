@@ -161,6 +161,7 @@ Fully functional smart contract.
 - [motoko-hex](https://github.com/enzoh/motoko-hex) - This package implements hexadecimal encoding and decoding routines for the Motoko programming language.
 - [motoko-json](https://github.com/kritzcreek/motoko-json) - Json parser in Motoko.
 - [motoko-UUID](https://github.com/aviate-labs/uuid.mo) - Generation of UUIDs based on RFC 4122.
+- [lexicographic-encoding](https://github.com/canscale/lexicographic-encoding) - Lexicographic (string sortable) integer encoding in Motoko.
 
 ### Graphics
 

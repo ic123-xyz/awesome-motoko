@@ -197,9 +197,9 @@ Fully functional smart contract.
 A registry allows you to publish your Rust libraries as crate packages, to share them with others publicly and privately.
 
 - [io package](https://github.com/aviate-labs/io.mo) - Basic Interfaces for I/O Primitives.
+- [MOPS](https://j4mwm-bqaaa-aaaam-qajbq-cai.ic0.app/) - A package manager for Motoko with on-chain package registry.
 - [Package Set](https://github.com/aviate-labs/package-set) - Aviate-labs package-set for Motoko libraries to use with vessel.
 - [Vessel Package Set](https://github.com/dfinity/vessel-package-set) - The official package-set for Motoko libraries to use with vessel.
-- [MOPS](https://j4mwm-bqaaa-aaaam-qajbq-cai.ic0.app/) - A package manager for Motoko with on-chain package registry.
 
 ## Resources
 

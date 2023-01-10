@@ -156,12 +156,12 @@ Fully functional smart contract.
 ### Encoding
 
 - [json package](https://github.com/aviate-labs/json.mo) - JSON for Motoko.
+- [lexicographic-encoding](https://github.com/canscale/lexicographic-encoding) - Lexicographic (string sortable) integer encoding in Motoko.
 - [motoko-base32](https://github.com/flyq/motoko-base32) - Base32 coding/decoding for Motoko.
 - [motoko-Encode](https://github.com/aviate-labs/encoding.mo) - Base32, Hex and Binary Library for the Motoko.
 - [motoko-hex](https://github.com/enzoh/motoko-hex) - This package implements hexadecimal encoding and decoding routines for the Motoko programming language.
 - [motoko-json](https://github.com/kritzcreek/motoko-json) - Json parser in Motoko.
 - [motoko-UUID](https://github.com/aviate-labs/uuid.mo) - Generation of UUIDs based on RFC 4122.
-- [lexicographic-encoding](https://github.com/canscale/lexicographic-encoding) - Lexicographic (string sortable) integer encoding in Motoko.
 
 ### Graphics
 

@@ -147,6 +147,7 @@ Fully functional smart contract.
 - [motoko-text-map](https://github.com/kritzcreek/motoko-text-map) - A Motoko Hashmap that fixes its key type to Text.
 - [mutable-queue.mo](https://github.com/ninegua/mutable-queue.mo) - Motoko module of a mutable queue data structure.
 - [Principal](https://github.com/aviate-labs/principal.mo) - Provides a wrapper around the [base principal module](https://github.com/dfinity/motoko-base/blob/master/src/Principal.mo).
+- [Stable BTree Map](https://github.com/canscale/StableHeapBTreeMap) - Stable (Heap-based) BTreeMaps in Motoko.
 - [Stable Buffers](https://github.com/canscale/StableBuffer) - Stable Buffers in Motoko.
 - [Stable Data Struct](https://github.com/aviate-labs/stable.mo) - Stable Hashmap implements.
 - [Stable HashMaps](https://github.com/canscale/StableHashMap) - Functional & Class-Based stable Hashmaps in Motoko.

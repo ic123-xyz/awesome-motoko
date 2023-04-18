@@ -58,6 +58,7 @@ Fully functional smart contract.
 
 ### Games
 
+- [jumpy-motoko](https://github.com/therealbryanho/IC-Code-Sample-Unity-Play-to-Earn-Game) - A play to earn game with code sample on how to deploy Unity play to earn game on Internet Computer.
 - [reversi](https://github.com/ninegua/reversi) - Multiplayer Reversi Game on Internet Computer.
 - [revo](https://github.com/DepartureLabsIC/revo) - A drawing game on Internet Computer.
 - [superheroes](https://github.com/enzoh/superheroes) - A simple example that demonstrates how to build a CRUD application on the Internet Computer using Motoko and React.

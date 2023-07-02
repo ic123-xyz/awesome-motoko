@@ -206,11 +206,12 @@ A registry allows you to publish your Rust libraries as crate packages, to share
 ## Resources
 
 - Learning
+  - [AgorApp](https://agorapp.dev/course/learn-motoko) - AgorApp is an online interactive coding platform that provides courses and coding challenges on all-things-web3 engineering and Internet Computer development.
   - [DFINITY Education](https://github.com/orgs/DFINITY-Education/) - Lessons about blockchain, cryptocurrencies and protocol of Internet Computer.
   - [Introducing the Internet Computer](https://smartcontracts.org/docs/introduction/welcome.html) - A comprehensive series of documents that introduce Internet Computer.
   - [Motoko Bootcamp](https://github.com/motoko-bootcamp/education) - Lectures and resources from the Motoko Bootcamp.
   - [motoko by example](https://github.com/dfinity/examples/tree/master/motoko) - An officially maintained collection of short Motoko examples.
-  - [AgorApp](https://agorapp.dev/course/learn-motoko) - AgorApp is an online interactive coding platform that provides courses and coding challenges on all-things-web3 engineering and Internet Computer development.
+  - [The Motoko Programming Language Book](https://web3.motoko-book.dev/) - A guide for writing Web3 Software on the Internet Computer.
 
 ## Contribute
 

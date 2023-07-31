@@ -132,6 +132,7 @@ Fully functional smart contract.
 - [motoko-SHA](https://github.com/aviate-labs/crypto.mo) - SHA224 and SHA256 hash algorithms as defined in FIPS 180-4.
 - [motoko-sha224](https://github.com/flyq/motoko-sha224) - A Sha224 implements for Motoko.
 - [rand](https://github.com/aviate-labs/rand.mo) - Pseudo Random Number Generators.
+- [evm-txs](https://github.com/av1ctor/evm-txs.mo) - EVM transactions creation, encoding, and decoding library in pure Motoko.
 
 ### Data structures
 

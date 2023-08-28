@@ -124,7 +124,7 @@ Fully functional smart contract.
 
 - [ecdsa-motoko](https://github.com/herumi/ecdsa-motoko) - ECDSA for Motoko.
 - [evm-txs](https://github.com/av1ctor/evm-txs.mo) - EVM transactions creation, encoding, and decoding library in pure Motoko.
-- [libsecp256k1](https://github.com/mix-labs/libsecp256k1) - Pure Motoko Implementation of secp256k1.
+- [libsecp256k1.mo](https://github.com/av1ctor/libsecp256k1.mo) - Motoko port of libsecp256k1.
 - [motoko-bitcoin](https://github.com/tgalal/motoko-bitcoin) - Bitcoin-related libraries (Base58, RIPMED160, HMAC).
 - [motoko-crc](https://github.com/enzoh/motoko-crc) - This package implements cyclic redundancy checks for the Motoko programming language.
 - [motoko-CRC32](https://github.com/aviate-labs/hash.mo) - Implements the 32-bit cyclic redundancy check, or CRC-32, checksum.

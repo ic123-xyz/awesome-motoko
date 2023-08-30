@@ -154,6 +154,7 @@ Fully functional smart contract.
 - [Stable HashMaps](https://github.com/canscale/StableHashMap) - Functional & Class-Based stable Hashmaps in Motoko.
 - [Stable LinkedList](https://github.com/canscale/LinkedList) - Stable, mutable singly & doubly linked lists in Motoko.
 - [Stable Red-Black Trees](https://github.com/canscale/StableRBTree) - Stable Red-Black Trees in Motoko.
+- [motoko_datetime](https://github.com/edjcase/motoko_datetime) - Datetime library. Support for UTC, local timezones, locales and basic datetime operations/structures
 
 ### Encoding
 
@@ -164,6 +165,9 @@ Fully functional smart contract.
 - [motoko-hex](https://github.com/enzoh/motoko-hex) - This package implements hexadecimal encoding and decoding routines for the Motoko programming language.
 - [motoko-json](https://github.com/kritzcreek/motoko-json) - Json parser in Motoko.
 - [motoko-UUID](https://github.com/aviate-labs/uuid.mo) - Generation of UUIDs based on RFC 4122.
+- [motoko_xml](https://github.com/edjcase/motoko_xml) - XML encoding/decoding library
+- [motoko_cbor](https://github.com/edjcase/motoko_cbor) - CBOR encoding/decoding library
+- [motoko_candid](https://github.com/edjcase/motoko_candid) - CANDID encoding/decoding library
 
 ### Graphics
 

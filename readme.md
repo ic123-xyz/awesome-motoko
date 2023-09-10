@@ -141,6 +141,7 @@ Fully functional smart contract.
 - [motoko-bigsearch](https://github.com/matthewhammer/motoko-sequence/blob/2b7b429224/service/BigSearch.mo) - A search service in Motoko, inspired by indexing and search systems like Apache Lucene.
 - [motoko-BiMap](https://github.com/aviate-labs/bimap.mo) - A bimap (or "bidirectional map") is a map that preserves the uniqueness of its values as well as that of its keys.
 - [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A framework for constructing CRUD services in Motoko for the Internet Computer.
+- [motoko_datetime](https://github.com/edjcase/motoko_datetime) - Datetime library. Support for UTC, local timezones, locales and basic datetime operations/structures
 - [motoko-MerkleTree](https://github.com/nomeata/motoko-merkle-tree) - A simple merkle tree data structure for Motoko. It provides a key-value store, where both keys and values are of type Blob.
 - [motoko-Queue](https://github.com/aviate-labs/queue.mo) - A collection of elements that are maintained in a sequence, a FIFO Queue.
 - [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) - Cache-friendly, persistent sequential data for Motoko.
@@ -160,10 +161,13 @@ Fully functional smart contract.
 - [json package](https://github.com/aviate-labs/json.mo) - JSON for Motoko.
 - [lexicographic-encoding](https://github.com/canscale/lexicographic-encoding) - Lexicographic (string sortable) integer encoding in Motoko.
 - [motoko-base32](https://github.com/flyq/motoko-base32) - Base32 coding/decoding for Motoko.
+- [motoko_candid](https://github.com/edjcase/motoko_candid) - CANDID encoding/decoding library
+- [motoko_cbor](https://github.com/edjcase/motoko_cbor) - CBOR encoding/decoding library
 - [motoko-Encode](https://github.com/aviate-labs/encoding.mo) - Base32, Hex and Binary Library for the Motoko.
 - [motoko-hex](https://github.com/enzoh/motoko-hex) - This package implements hexadecimal encoding and decoding routines for the Motoko programming language.
 - [motoko-json](https://github.com/kritzcreek/motoko-json) - Json parser in Motoko.
 - [motoko-UUID](https://github.com/aviate-labs/uuid.mo) - Generation of UUIDs based on RFC 4122.
+- [motoko_xml](https://github.com/edjcase/motoko_xml) - XML encoding/decoding library
 
 ### Graphics
 

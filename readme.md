@@ -168,7 +168,7 @@ Fully functional smart contract.
 - [motoko-json](https://github.com/kritzcreek/motoko-json) - Json parser in Motoko.
 - [motoko-UUID](https://github.com/aviate-labs/uuid.mo) - Generation of UUIDs based on RFC 4122.
 - [motoko_xml](https://github.com/edjcase/motoko_xml) - XML encoding/decoding library
-
+- [Account.mo](https://github.com/dfinity/ICRC-1/blob/main/ref/Account.mo) – ICRC1 Account En/Decoding
 ### Graphics
 
 - [motoko-graph](https://github.com/matthewhammer/motoko-graph) - Graphical data models for Motoko.

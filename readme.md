@@ -146,6 +146,7 @@ Fully functional smart contract.
 - [motoko-Queue](https://github.com/aviate-labs/queue.mo) - A collection of elements that are maintained in a sequence, a FIFO Queue.
 - [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) - Cache-friendly, persistent sequential data for Motoko.
 - [motoko-StableMap](https://github.com/mix-labs/StableMap) - Stable Map for the Motoko.
+- [MotokoStableBTree](https://github.com/sardariuss/MotokoStableBTree) – Stable Memory Based BTree.
 - [motoko-text-map](https://github.com/kritzcreek/motoko-text-map) - A Motoko Hashmap that fixes its key type to Text.
 - [mutable-queue.mo](https://github.com/ninegua/mutable-queue.mo) - Motoko module of a mutable queue data structure.
 - [Principal](https://github.com/aviate-labs/principal.mo) - Provides a wrapper around the [base principal module](https://github.com/dfinity/motoko-base/blob/master/src/Principal.mo).
@@ -155,7 +156,6 @@ Fully functional smart contract.
 - [Stable HashMaps](https://github.com/canscale/StableHashMap) - Functional & Class-Based stable Hashmaps in Motoko.
 - [Stable LinkedList](https://github.com/canscale/LinkedList) - Stable, mutable singly & doubly linked lists in Motoko.
 - [Stable Red-Black Trees](https://github.com/canscale/StableRBTree) - Stable Red-Black Trees in Motoko.
-- [MotokoStableBTree](https://github.com/sardariuss/MotokoStableBTree) – Stable Memory Based BTree.
 
 ### Encoding
 

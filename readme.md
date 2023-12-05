@@ -14,6 +14,7 @@
   - [Storage](#storage)
   - [Utilities](#utilities)
   - [Video](#video)
+  - [Mining Platform](#mining-platform)
 - [Development tools](#development-tools)
   - [Build system](#build-system)
   - [IDEs](#ides)
@@ -84,6 +85,10 @@ Fully functional smart contract.
 ### Video
 
 - [cancan](https://github.com/dfinity/cancan) - A scalable video-sharing service.
+  
+### Mining Platform
+
+- [loka](https://github.com/lokaverse/loka_canister) - Trustless Non-Custodial Bitcoin Mining Platform built on IC
 
 ## Development tools
 

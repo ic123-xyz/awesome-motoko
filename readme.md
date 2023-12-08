@@ -10,11 +10,11 @@
   - [Canister tools](#canister-tools)
   - [Cryptocurrencies](#cryptocurrencies)
   - [Games](#games)
+  - [Mining Platform](#mining-platform)
   - [Social](#social)
   - [Storage](#storage)
   - [Utilities](#utilities)
   - [Video](#video)
-  - [Mining Platform](#mining-platform)
 - [Development tools](#development-tools)
   - [Build system](#build-system)
   - [IDEs](#ides)
@@ -64,6 +64,10 @@ Fully functional smart contract.
 - [revo](https://github.com/DepartureLabsIC/revo) - A drawing game on Internet Computer.
 - [superheroes](https://github.com/enzoh/superheroes) - A simple example that demonstrates how to build a CRUD application on the Internet Computer using Motoko and React.
 
+### Mining Platform
+
+- [loka](https://github.com/lokaverse/loka_canister) - Trustless Non-Custodial Bitcoin Mining Platform built on IC
+
 ### Social
 
 - [LinkedUp](https://github.com/dfinity/linkedup) - An open professional network on Internet Computer.
@@ -85,10 +89,6 @@ Fully functional smart contract.
 ### Video
 
 - [cancan](https://github.com/dfinity/cancan) - A scalable video-sharing service.
-  
-### Mining Platform
-
-- [loka](https://github.com/lokaverse/loka_canister) - Trustless Non-Custodial Bitcoin Mining Platform built on IC
 
 ## Development tools
 

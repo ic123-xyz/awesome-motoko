@@ -74,7 +74,7 @@ Fully functional smart contract.
 - [loka](https://github.com/lokaverse/loka_canister) - Trustless Non-Custodial Bitcoin Mining Platform built on IC
 
 ### Realestate
-- [ber](https://github.com/vybgss/assets-tokenization-ic-contracts) - Blockchain estate register with IC 
+- [ber](https://github.com/orgs/assets-tokenization/repositories) - Blockchain estate register with IC 
 
 ### Social
 

@@ -137,6 +137,7 @@ Fully functional smart contract.
 ### Cryptography
 
 - [ecdsa-motoko](https://github.com/herumi/ecdsa-motoko) - ECDSA for Motoko.
+- [ecdsa_poc](https://github.com/flyq/ecdsa_poc) - Prototype implementation of ECDSA, only for learning.
 - [evm-txs](https://github.com/av1ctor/evm-txs.mo) - EVM transactions creation, encoding, and decoding library in pure Motoko.
 - [libsecp256k1.mo](https://github.com/av1ctor/libsecp256k1.mo) - Motoko port of libsecp256k1.
 - [motoko-bitcoin](https://github.com/tgalal/motoko-bitcoin) - Bitcoin-related libraries (Base58, RIPMED160, HMAC).

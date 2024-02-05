@@ -47,6 +47,7 @@ Fully functional smart contract.
 - [iCAN](https://github.com/PrimLabs/iCAN) - A Canister Management Platform, which helps you create canisters in random subnet and manage canisters status efficiently and conveniently.
 - [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable.
 - [motoko_top_up_canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - Implementation of a canister called periodically by a Node.js service; that top-up automatically user-defined canisters with cycles.
+- [icrc1-token-canister](https://github.com/sonicdex/icrc-1-public/) - Implementation of ICRC1 token canister 
 
 ### Cryptocurrencies
 

@@ -47,16 +47,16 @@ Fully functional smart contract.
 - [iCAN](https://github.com/PrimLabs/iCAN) - A Canister Management Platform, which helps you create canisters in random subnet and manage canisters status efficiently and conveniently.
 - [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Once a canister sets its only controller to a black hole, it becomes immutable.
 - [motoko_top_up_canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - Implementation of a canister called periodically by a Node.js service; that top-up automatically user-defined canisters with cycles.
-- [icrc1-token-canister](https://github.com/sonicdex/icrc-1-public/) - Implementation of ICRC1 token canister 
 
 ### Cryptocurrencies
 
 - [extendable-token](https://github.com/Toniq-Labs/extendable-token) - This token standard provides a ERC1155/multi-token-like approach with extensions that can add additional functionality based on the purpose of the token.
 - [extendable token standard](https://github.com/aviate-labs/ext.std) - Extendable Token Standard.
-- [icrc7_motoko](https://github.com/noku-team/icrc7_motoko) - An ICRC-7 standard implementation in Motoko.
-- [icrc7-mo](https://github.com/PanIndustrial-Org/icrc7.mo) - A Class+ ICRC-7 Library for building NFT Canisters.
+- [icrc1-token-canister](https://github.com/sonicdex/icrc-1-public/) - Implementation of ICRC1 token canister
 - [icrc30-mo](https://github.com/PanIndustrial-Org/icrc30.mo) - A Class+ ICRC-30 Library for providing Approve/TransferFrom to ICRC-7 NFT Canisters.
 - [icrc3-mo](https://github.com/PanIndustrial-Org/icrc3.mo) - A Class+ ICRC-3 Library for adding transaction logs and archives to your canister.
+- [icrc7_motoko](https://github.com/noku-team/icrc7_motoko) - An ICRC-7 standard implementation in Motoko.
+- [icrc7-mo](https://github.com/PanIndustrial-Org/icrc7.mo) - A Class+ ICRC-7 Library for building NFT Canisters.
 - [icrc-nft-mo](https://github.com/PanIndustrial-Org/icrc_nft.mo) - A Sample NFT combining icrc7-mo, icrc30-mo, icrc3-mo.
 - [ic-nft](https://github.com/rocklabs-io/ic-nft) - A NFT standard implementation for the Internet Computer, the interfaces mainly follow the ERC721 standard.
 - [ic-token](https://github.com/rocklabs-io/ic-token) - An ERC-20 style token standard implements for Motoko.

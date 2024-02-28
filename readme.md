@@ -79,6 +79,7 @@ Fully functional smart contract.
 
 ### Social
 
+- [Formyfi](https://github.com/Talentum-id/formify) - Decentralized & fully on-chain Q&A Forms.
 - [LinkedUp](https://github.com/dfinity/linkedup) - An open professional network on Internet Computer.
 
 ### Storage

@@ -31,6 +31,7 @@
   - [Templates](#templates)
   - [Text processing](#text-processing)
   - [Web Programming](#web-programming)
+  - [Misc](#libs-misc)
 - [Registries](#registries)
 - [Resources](#resources)
 - [Contribute](#contribute)
@@ -218,6 +219,10 @@ Fully functional smart contract.
 ### Web Programming
 
 - [Http Request Parser](https://github.com/tomijaga/http-parser.mo) - A http request parser for parsing url, search query, headers and form data.
+
+### Libs Misc
+
+- [Gitcoin Passport Client](https://github.com/vporton/passport-client-dfinity) - A sample app to securely copy Gitcoin Passport scores to ICP databases.
 
 ## Registries
 

@@ -220,7 +220,7 @@ Fully functional smart contract.
 
 - [Http Request Parser](https://github.com/tomijaga/http-parser.mo) - A http request parser for parsing url, search query, headers and form data.
 
-### Libs Misc
+### Misc
 
 - [Gitcoin Passport Client](https://github.com/vporton/passport-client-dfinity) - A sample app to securely copy Gitcoin Passport scores to ICP databases.
 

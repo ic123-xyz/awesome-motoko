@@ -201,6 +201,10 @@ Fully functional smart contract.
 - [ic-logger](https://github.com/ninegua/ic-logger) - Motoko library to help create an append-only logger actor.
 - [motoko-pretty](https://github.com/kritzcreek/motoko-pretty) - A pretty printer library for Motoko.
 
+### Misc
+
+- [Gitcoin Passport Client](https://github.com/vporton/passport-client-dfinity) - A sample app to securely copy Gitcoin Passport scores to ICP databases.
+
 ### Storage
 
 - [Asset Storage](https://github.com/aviate-labs/asset-storage.mo) - Interface of the Asset Storage Canister.
@@ -219,10 +223,6 @@ Fully functional smart contract.
 ### Web Programming
 
 - [Http Request Parser](https://github.com/tomijaga/http-parser.mo) - A http request parser for parsing url, search query, headers and form data.
-
-### Misc
-
-- [Gitcoin Passport Client](https://github.com/vporton/passport-client-dfinity) - A sample app to securely copy Gitcoin Passport scores to ICP databases.
 
 ## Registries
 

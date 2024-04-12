@@ -31,7 +31,7 @@
   - [Templates](#templates)
   - [Text processing](#text-processing)
   - [Web Programming](#web-programming)
-  - [Misc](#libs-misc)
+  - [Misc](#misc)
 - [Registries](#registries)
 - [Resources](#resources)
 - [Contribute](#contribute)

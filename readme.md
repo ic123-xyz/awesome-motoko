@@ -31,6 +31,7 @@
   - [Templates](#templates)
   - [Text processing](#text-processing)
   - [Web Programming](#web-programming)
+  - [Misc](#misc)
 - [Registries](#registries)
 - [Resources](#resources)
 - [Contribute](#contribute)
@@ -199,6 +200,10 @@ Fully functional smart contract.
 
 - [ic-logger](https://github.com/ninegua/ic-logger) - Motoko library to help create an append-only logger actor.
 - [motoko-pretty](https://github.com/kritzcreek/motoko-pretty) - A pretty printer library for Motoko.
+
+### Misc
+
+- [Gitcoin Passport Client](https://github.com/vporton/passport-client-dfinity) - A sample app to securely copy Gitcoin Passport scores to ICP databases.
 
 ### Storage
 

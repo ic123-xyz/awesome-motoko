@@ -94,6 +94,7 @@ Fully functional smart contract.
 ### Utilities
 
 - [cleansheets](https://github.com/matthewhammer/cleansheets) - A spreadsheet-like application for the Internet Computer, written in Motoko.
+- [IC Payroll](https://github.com/cosmasken/ic-payroll) - Human Resource and Payroll App hosted fully on-chain on the internet Computer. Users can hold and send ckbtc and other icrc2 compliant tokens .Allows user to send a single payment or bulk payment. Vue/Tailwindcss Frontend with Motoko Backend.
 - [motoko-certified-http](https://github.com/nomeata/motoko-certified-http) - A motoko canister that does HTTP asset certification.
 - [relay](https://github.com/DepartureLabsIC/relay) - Managed events infrastructure by Departure Labs.
 - [SecureGuard Escrow](https://github.com/bix-tech/secure-guard-escrow) - Revolutionizing secure transactions with a blockchain-based escrow platform , ensuring safe exchanges of high-value goods and services with immutable smart contracts.

@@ -38,6 +38,8 @@
 - [License](#license)
 
 ## Applications
+- [Appic](https://github.com/Appic-Solutions/Auto_Investment) - A canister for automatically buying and selling tokens at specific times or intervals.
+
 
 Fully functional smart contract.
 

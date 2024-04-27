@@ -51,6 +51,7 @@ Fully functional smart contract.
 
 ### Cryptocurrencies
 
+- [Appic](https://github.com/Appic-Solutions/Auto_Investment) - A canister for automatically buying and selling tokens at specific times or intervals.
 - [extendable-token](https://github.com/Toniq-Labs/extendable-token) - This token standard provides a ERC1155/multi-token-like approach with extensions that can add additional functionality based on the purpose of the token.
 - [extendable token standard](https://github.com/aviate-labs/ext.std) - Extendable Token Standard.
 - [icrc1-token-canister](https://github.com/sonicdex/icrc-1-public/) - Implementation of ICRC1 token canister

@@ -79,10 +79,14 @@ Fully functional smart contract.
 ### Realestate
 - [ber](https://github.com/orgs/assets-tokenization/repositories) - Blockchain estate register with IC 
 
+### Protocols
+- [Konecta Protocol](https://github.com/sagcryptoicp/konnectA_canisters) - Event management protocol that allows users to have their own canister with multiple events, and developers to create their own apps based on users’ event canisters.
+
 ### Social
 
 - [Formyfi](https://github.com/Talentum-id/formify) - Decentralized & fully on-chain Q&A Forms.
 - [LinkedUp](https://github.com/dfinity/linkedup) - An open professional network on Internet Computer.
+- [Konecta WebApp](https://github.com/sagcryptoicp/konnectA_canisters) - Connects content creators and professionals from various fields with their respective consumers through Events in their calendars, offering a novel way to manage content, and adding a brick to the KonectA Protocol wall.
 
 ### Storage
 

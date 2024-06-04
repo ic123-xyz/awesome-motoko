@@ -104,6 +104,11 @@ Fully functional smart contract.
 
 - [cancan](https://github.com/dfinity/cancan) - A scalable video-sharing service.
 
+## Decentralized Finance (DeFi)
+
+### Exchanges
+- [BrownFi](https://github.com/BrownFi/BrownFi-AMM-ICP) - Simple AMM with high Capital Effifiency
+
 ## Development tools
 
 ### Build system

@@ -99,6 +99,7 @@ Fully functional smart contract.
 - [motoko-certified-http](https://github.com/nomeata/motoko-certified-http) - A motoko canister that does HTTP asset certification.
 - [relay](https://github.com/DepartureLabsIC/relay) - Managed events infrastructure by Departure Labs.
 - [SecureGuard Escrow](https://github.com/bix-tech/secure-guard-escrow) - Revolutionizing secure transactions with a blockchain-based escrow platform , ensuring safe exchanges of high-value goods and services with immutable smart contracts.
+- [TezSign](https://www.tezsign.com) - A digital signing platform utilizing the Internet Computer.
 
 ### Video
 

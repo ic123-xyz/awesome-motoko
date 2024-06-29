@@ -9,6 +9,7 @@
 - [Applications](#applications)
   - [Canister tools](#canister-tools)
   - [Cryptocurrencies](#cryptocurrencies)
+  - [Decentralized Finance](#decentralized-finance)
   - [Games](#games)
   - [Mining Platform](#mining-platform)
   - [Realestate](#realestate)
@@ -65,6 +66,10 @@ Fully functional smart contract.
 - [motoko-token](https://github.com/enzoh/motoko-token) - This package implements a simple ERC-20 style token.
 - [non-fungible-token](https://github.com/DepartureLabsIC/non-fungible-token) - The goal for this project is to develop a non-fungible token standard which leverages the unique properties of the IC and enables builders to create entire experiences from a single contract.
 - [token faucet](https://github.com/rocklabs-io/token-faucet) - A token faucet for [ic-token](https://github.com/rocklabs-io/ic-toke).
+
+### Decentralized Finance
+
+- [BrownFi](https://github.com/BrownFi/BrownFi-AMM-ICP) - Simple AMM Dex with high Capital Effifiency
 
 ### Games
 

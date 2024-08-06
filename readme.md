@@ -29,6 +29,7 @@
   - [Graphics](#graphics)
   - [Logging](#logging)
   - [Misc](#misc)
+  - [Payment](#payment)
   - [Storage](#storage-1)
   - [Templates](#templates)
   - [Text processing](#text-processing)
@@ -211,6 +212,10 @@ Fully functional smart contract.
 ### Misc
 
 - [Gitcoin Passport Client](https://github.com/vporton/passport-client-dfinity) - A sample app to securely copy Gitcoin Passport scores to ICP databases.
+
+### Payment
+
+- [IC-PayPortal](https://github.com/Expeera/IC-PayPortal/tree/phase-3) - Module for Motoko is a library that provides developers with a set of functions for managing fiat payments (Stripe, PayPal) on the Internet Computer Protocol (ICP).
 
 ### Storage
 

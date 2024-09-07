@@ -89,6 +89,7 @@ Fully functional smart contract.
 
 - [Formyfi](https://github.com/Talentum-id/formify) - Decentralized & fully on-chain Q&A Forms.
 - [LinkedUp](https://github.com/dfinity/linkedup) - An open professional network on Internet Computer.
+- [Spark](https://github.com/johnxiaohe/ICP-Spark) - An ICP-based full-chain document collaborative editing management and knowledge sharing platform.
 
 ### Storage
 

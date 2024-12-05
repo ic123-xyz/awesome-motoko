@@ -232,6 +232,7 @@ Fully functional smart contract.
 
 - [Format](https://github.com/aviate-labs/fmt.mo) - Implements conversions to and from textual representations of basic data types.
 - [motoko-regex](https://github.com/kritzcreek/motoko-regex) - Simple regex matching for Motoko Text.
+- [motoko-regex-engine](https://github.com/demali-876/motoko_regex_engine)- A library for native pattern matching on the Internet Computer.
 
 ### Web Programming
 

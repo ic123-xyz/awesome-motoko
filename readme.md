@@ -87,6 +87,7 @@ Fully functional smart contract.
 
 ### Social
 
+- [Anti-Korrupt](https://github.com/kezzyNgotho/Hackathon202409AI) - Expand your knowledge on corruption using AI and blockchain.
 - [Formyfi](https://github.com/Talentum-id/formify) - Decentralized & fully on-chain Q&A Forms.
 - [LinkedUp](https://github.com/dfinity/linkedup) - An open professional network on Internet Computer.
 

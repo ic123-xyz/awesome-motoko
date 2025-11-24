@@ -258,6 +258,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
   - [Motoko Bootcamp](https://github.com/motoko-bootcamp/education) - Lectures and resources from the Motoko Bootcamp.
   - [motoko by example](https://github.com/dfinity/examples/tree/master/motoko) - An officially maintained collection of short Motoko examples.
   - [The Motoko Programming Language Book](https://web3.motoko-book.dev/) - A guide for writing Web3 Software on the Internet Computer.
+  - [Mastering Motoko Book](https://github.com/niklabh/motokobook) - The Definitive Guide to Decentralized Application Engineering on the Internet Computer
 
 ## Contribute
 
